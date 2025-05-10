@@ -1,0 +1,159 @@
+.first {
+    font-family: "Roboto", sans-serif;
+    background-color: #1F2937;
+    color: #E5E7EB;
+    font-size: 18px;
+    display: flex;
+    flex-direction: column;
+    padding-right:100px;
+    padding-left: 100px;
+    padding-bottom: 75px;
+    flex-wrap: wrap;
+       
+}
+header {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+.logo {
+    color: #F9FAF8;
+    font-size: 24px;
+    display:flex;
+    margin-right: auto;
+    
+}
+.link {
+    color: #E5E7EB;
+    font-size: 18px;
+    display: flex;
+    gap: 20px;
+}
+.bottom {
+    margin-top: 50px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    
+}
+.website {
+    font-size:48px;
+    color: #F9FAF8;
+    font-weight: 900;
+}
+.secondary {
+    color: #E5E7EB;
+    font-size: 18px;
+}
+.left {
+    width: 40%;
+    text-align: left;
+}
+.right {
+    width: 50%;
+    
+}
+.img1 {
+    width: 100%;
+}
+button {
+    background-color: #3882f6;
+    color: #E5E7EB;
+    padding: 3px 20px 3px 20px;
+    border-radius:5px;
+    border-color: transparent;
+}
+.second {
+    padding: 0 100px 100px 100px;
+    color: black;
+    font-size: 14px;
+}
+.info {
+    color:#1F2937;
+    font-size: 36px;
+    font-weight: 900;
+    text-align: center;
+}
+.photos {
+    display: flex;
+    justify-content: center;
+    gap: 40px;
+    flex-wrap: wrap;
+}
+.photos img{
+    height: 150px;
+    width: 150px;
+    border: 3px solid #3882f6;
+    border-radius: 7px;
+}
+.bir{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    max-width: 150px;
+    
+}
+.third {
+    background-color: #E5E7EB;
+    padding: 100px 100px 100px 100px;
+
+}
+.third p {
+    font: italic 300 36px sans-serif;
+    color: #1F2937;
+}
+.third strong {
+    font-size: 24px;
+    display: block;
+    text-align: right;
+    
+}
+.fourth {
+    color: #F9FAF8;
+    padding: 100px 100px 100px 100px;
+
+}
+.action {
+    background-color: #3882f6;
+    display: flex;
+    justify-content: space-evenly;
+    border-radius: 7px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    flex-wrap: wrap;
+}
+.sol {
+    display: flex;
+    flex-direction: column;
+    justify-content:stretch
+}
+.sag {
+    align-content: center;
+}
+.call {
+    color: #F9FAF8;
+    font-size: 24px;
+    margin-bottom: auto;
+}
+.win {
+    margin-top: auto;
+    color: #E5E7EB;
+}
+.action button {
+    color: #F9FAF8;
+    padding: 3px 20px 3px 20px;
+    border-radius:5px;
+    border: solid;
+}
+footer {
+    background-color: #3b4f6b;
+    color: #E5E7EB;
+    display: flex;
+    justify-content: center;
+    font-size: 12px;
+    padding: 10px;
+
+}
+footer img {
+    height: 14px;
+}
